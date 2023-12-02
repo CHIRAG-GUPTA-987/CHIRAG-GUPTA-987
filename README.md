@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CHIRAG-GUPTA-987
 - 👀 I’m interested in developing backend services for different applications
 - 💞️ I’m looking to collaborate on projects that solve real world problems
-  🌱 I’m currently working on my Youtube Channel @Chirag-Gupta-987
+- 🌱 I’m currently working on my Youtube Channel @Chirag-Gupta-987
 - 📫 Anyone can reach me through my mail - gchirag120@gmail.com
 
 <!---
